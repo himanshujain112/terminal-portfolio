@@ -45,7 +45,7 @@ Available commands:
 1. Elemently ~ Chrome Extension
    📝 Description : A productivity tool that allows users to remove, hide, or extract elements from any webpage in real time.
    👤 Type        : Solo Project
-   🛠️ Tech Stack  : HTML, CSS, JavaScript, Chrome Extensions API
+   🛠️ Tech Stack  : HTML, CSS, JavaScript, Chrome API
    🚀 Status      : Live
    🔗 Repo        : github.com/himanshujain112/Elemently-chrome-extension
 
@@ -71,20 +71,17 @@ Available commands:
    🛠️ Tech Stack  : HTML, CSS, JavaScript
    🌟 Features    : Typing effects, command parser, easter eggs
    🚀 Status      : Live
-   🔗 Live        : himanshujain.me
+   🔗 Live        : himanshujain112.github.io
 \n\n`,
 	contact: `
 Email		: Himanshujain82669@Gmail.com
 GitHub		: github.com/himanshujain112
 Instagram	: @Himanshu_jain112\n
 `,
-
+	resume : `Download resume from here: (Link updated soon)`,
 	sysinfo: `System Info:\nOS: PortfolioOS v1.0\nRAM: 16GB Terminal Memory\nCPU: Brainstorm Engine 3.14GHz\nUptime: ${Math.floor(
 		Math.random() * 300
 	)} mins\n`,
-	matrix: "Switching to Matrix mode...\n(Feature coming soon)\n",
-	"unlock pro":
-		"Unlocking Pro Mode... Enhanced features activated!\nASCII effects, dynamic system info, glowing UI. More coming soon!\n",
 	clear: "__CLEAR_SCREEN__",
 };
 
